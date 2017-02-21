@@ -1,1 +1,1 @@
-Redirect permanent /index.html /hello.php
+Redirect permanent /index.html :8080/hello.php
