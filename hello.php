@@ -4,10 +4,8 @@
  </head>
  <body>
  <?php echo '<p>Hello OpenShift</p>'; ?> 
- <p>
  <?php
- echo $_SERVER['SERVER_ADDR'];
+ echo <p> $_SERVER['SERVER_ADDR'] </p>;
  ?>
- </p>
  </body>
 </html>
