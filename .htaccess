@@ -1,1 +1,0 @@
-Redirect permanent /index.html http://demo-project-test1.router.default.svc.cluster.local/hello.php
