@@ -1,1 +1,1 @@
-Redirect permanent /index.html :8080/hello.php
+Redirect permanent /index.html http://demo-project-test1.router.default.svc.cluster.local:8080/hello.php
